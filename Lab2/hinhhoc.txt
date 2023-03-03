@@ -1,0 +1,6 @@
+HinhVuong*5
+HinhChuNhat*3*4.5
+HinhTron*2
+HinhChuNhat*6*8
+HinhVuong*10
+HinhTron*6
